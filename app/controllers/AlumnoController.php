@@ -3,9 +3,10 @@
 class AlumnoController {
 
     public function index() {
-        // Aquí luego cargaremos la vista
-        echo "Controlador Alumno funcionando";
+        // Cargar la vista principal
+        require_once "app/views/index.php";
     }
+
 }
 
 ?>
