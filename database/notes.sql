@@ -1,4 +1,0 @@
-CREATE TABLE notes (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    message TEXT NOT NULL
-);
