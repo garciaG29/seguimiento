@@ -2,7 +2,7 @@
 
 use App\Controllers\TipController;
 
-// Crear instancia de router básico
+// Crear instancia de router 
 $router = new class {
     private $routes = [];
 
