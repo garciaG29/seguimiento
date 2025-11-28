@@ -1,1 +1,9 @@
+/* Punto 5: Estilos básicos */
+body {
+    background-color: #f7f7f7;
+}
 
+form {
+    background: white;
+    border-radius: 10px;
+}
