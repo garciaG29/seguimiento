@@ -1,3 +1,5 @@
-// Punto 6: Script básico con JavaScript
-console.log("Archivo JavaScript funcionando correctamente");
-alert("¡Bienvenido al formulario!");
+// Punto 6: JavaScript básico de interacción
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("JavaScript cargado correctamente");
+    alert("Bienvenido al formulario!");
+});
