@@ -1,1 +1,1 @@
-Este archivo pertenece a la carpeta storage.
+Carpeta de almacenamiento (Punto 9).
