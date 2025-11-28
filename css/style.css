@@ -1,9 +1,13 @@
-/* Punto 5: Estilos básicos */
+/* Punto 5: Estilos  */
+
 body {
-    background-color: #f7f7f7;
+    background-color: #f4f6f9;
 }
 
-form {
-    background: white;
-    border-radius: 10px;
+.card {
+    border-radius: 12px;
+}
+
+header {
+    font-weight: bold;
 }
